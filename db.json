@@ -1,418 +1,418 @@
 {
-  "getCurrentOrNextMenu": {
-    "duration": 0.028401299,
-    "error": null,
-    "host": "api-client-7c7494d7db-dsbfw",
-    "result": {
-      "id": "f9f67a00-f757-4405-87d3-cc77bd90743e",
-      "name": "default",
-      "categories": [
-        {
-          "name": "Poke ",
-          "spotlight": false,
-          "products": [
+   "getCurrentOrNextMenu":{
+      "duration":0.028401299,
+      "error":null,
+      "host":"api-client-7c7494d7db-dsbfw",
+      "result":{
+         "id":"f9f67a00-f757-4405-87d3-cc77bd90743e",
+         "name":"default",
+         "categories":[
             {
-              "price": 4000,
-              "minProductValue": null,
-              "id": "ce6a81a8-662b-49f7-b882-71ac555257fb",
-              "isActive": true,
-              "isMountable": true,
-              "imageUrl": null,
-              "name": "Do Seu Jeito",
-              "description": "",
-              "sku": "13011",
-              "baseValue": null
+               "name":"Poke ",
+               "spotlight":false,
+               "products":[
+                  {
+                     "price":4000,
+                     "minProductValue":null,
+                     "id":"ce6a81a8-662b-49f7-b882-71ac555257fb",
+                     "isActive":true,
+                     "isMountable":true,
+                     "imageUrl":null,
+                     "name":"Do Seu Jeito",
+                     "description":"",
+                     "sku":"13011",
+                     "baseValue":null
+                  }
+               ]
+            },
+            {
+               "name":"Acompanhamentos com nome super super super grande grande gigante",
+               "spotlight":false,
+               "products":[
+                  {
+                     "price":11000,
+                     "minProductValue":null,
+                     "id":"e4fbf3c4-b941-4a04-92c9-e75475a8ac30",
+                     "isActive":true,
+                     "isMountable":true,
+                     "imageUrl":null,
+                     "name":"da",
+                     "description":"",
+                     "sku":"1608054672391",
+                     "baseValue":null
+                  },
+                  {
+                     "price":4000,
+                     "minProductValue":null,
+                     "id":"49599fc9-ab33-4aa5-974b-76d596f95741",
+                     "isActive":true,
+                     "isMountable":true,
+                     "imageUrl":"https://static.zakpay.io/images/d81/d81668e69ab31b18dbc4f5fd6695fc7c5ce488323e345ac7c54f6e5cab8c1791.png",
+                     "name":"X-Burguer",
+                     "description":"CheeseBurguer",
+                     "sku":"95471",
+                     "baseValue":null
+                  }
+               ]
+            },
+            {
+               "name":"Delivery",
+               "spotlight":false,
+               "products":[
+                  {
+                     "price":650,
+                     "minProductValue":null,
+                     "id":"87a37b76-99be-493c-ac53-0cdee2e620d8",
+                     "isActive":true,
+                     "isMountable":true,
+                     "imageUrl":null,
+                     "name":"Coca Cola Zero",
+                     "description":"",
+                     "sku":"22091",
+                     "baseValue":null
+                  },
+                  {
+                     "price":4700,
+                     "minProductValue":null,
+                     "id":"9e9adfb5-0dd0-42c4-805f-3898b9625f88",
+                     "isActive":true,
+                     "isMountable":true,
+                     "imageUrl":"https://zak-static-dev.zakpay.io/images/028/028038fc019cb713151b5a720cb167f7fa8d41e241797dbba6a60b2f6b30af24.png",
+                     "name":"Poke 02 - Mar e Terra",
+                     "description":"Arroz Branco, Atum(Cru), Barriga de Porco, Molho Cítrico, Avocado, Kimchi, Ovo, Pepino, Maionese, Wakame e Pururuca ",
+                     "sku":"24021",
+                     "baseValue":null
+                  }
+               ]
+            },
+            {
+               "name":"Lanche",
+               "spotlight":false,
+               "products":[
+                  {
+                     "price":1200,
+                     "minProductValue":null,
+                     "id":"6e6ac23b-3c99-47dc-8876-ff41e13ae0a4",
+                     "isActive":true,
+                     "isMountable":true,
+                     "imageUrl":null,
+                     "name":"Amanteigado Coração Rosa",
+                     "description":"",
+                     "sku":"19079",
+                     "baseValue":null
+                  }
+               ]
+            },
+            {
+               "name":"Categoria do Mariano 7",
+               "spotlight":true,
+               "products":[
+                  {
+                     "price":1200,
+                     "minProductValue":null,
+                     "id":"dfb000c4-a81f-41ec-8f0c-ea29a477cddd",
+                     "isActive":true,
+                     "isMountable":true,
+                     "imageUrl":null,
+                     "name":"Fanta Laranja 700ml",
+                     "description":"",
+                     "sku":"1608054672401",
+                     "baseValue":null
+                  },
+                  {
+                     "price":0,
+                     "minProductValue":null,
+                     "id":"1603b73c-56e9-44ae-9254-4462fc7cab11",
+                     "isActive":true,
+                     "isMountable":true,
+                     "imageUrl":null,
+                     "name":"Taxa de entrega",
+                     "description":"",
+                     "sku":"1608054672383",
+                     "baseValue":null
+                  }
+               ]
+            },
+            {
+               "name":"Categoria do Mariano 1",
+               "spotlight":true,
+               "products":[
+                  {
+                     "price":690,
+                     "minProductValue":null,
+                     "id":"719b37bb-84c4-4807-b481-07da023dd803",
+                     "isActive":true,
+                     "isMountable":true,
+                     "imageUrl":"https://zak-static-dev.zakpay.io/images/8f1/8f1e11682e7f08f4be8f058d2af6e6dc5a17d18b435afa4d6f271954422585ed.png",
+                     "name":"Carpaccio rústico de carne",
+                     "description":"Carpaccio de filé-mignon, maionese de mostarda, parmesão em lascas, míni rúcula, alcaparra frita e molho de alcaparra.",
+                     "sku":"68",
+                     "baseValue":null
+                  }
+               ]
+            },
+            {
+               "name":"Categoria do Mariano 8",
+               "spotlight":true,
+               "products":[
+                  {
+                     "price":5800,
+                     "minProductValue":null,
+                     "id":"97a59dea-f99b-4868-a89f-849261680d01",
+                     "isActive":true,
+                     "isMountable":true,
+                     "imageUrl":null,
+                     "name":"Monte seu Bowl Quente com Mel",
+                     "description":"",
+                     "sku":"0517745755",
+                     "baseValue":null
+                  },
+                  {
+                     "price":1500,
+                     "minProductValue":null,
+                     "id":"874c0fc6-b3ce-4d15-a30b-f206a01697fd",
+                     "isActive":true,
+                     "isMountable":true,
+                     "imageUrl":null,
+                     "name":"McFritas Grande",
+                     "description":"A batata frita mais famosa do mundo. Deliciosas batatas selecionadas, fritas, crocantes por fora, macias por dentro, douradas, irresistíveis, saborosas, famosas, e todos os outros adjetivos positivos que você quiser dar.",
+                     "sku":"1608054672398",
+                     "baseValue":null
+                  },
+                  {
+                     "price":1500,
+                     "minProductValue":null,
+                     "id":"897562c2-4832-4bf8-b005-9d85ede302c6",
+                     "isActive":true,
+                     "isMountable":true,
+                     "imageUrl":null,
+                     "name":"Coca-Cola Zero 700ml",
+                     "description":"",
+                     "sku":"1608054672403",
+                     "baseValue":null
+                  },
+                  {
+                     "price":690,
+                     "minProductValue":null,
+                     "id":"719b37bb-84c4-4807-b481-07da023dd803",
+                     "isActive":true,
+                     "isMountable":true,
+                     "imageUrl":"https://zak-static-dev.zakpay.io/images/8f1/8f1e11682e7f08f4be8f058d2af6e6dc5a17d18b435afa4d6f271954422585ed.png",
+                     "name":"Carpaccio rústico de carne",
+                     "description":"Carpaccio de filé-mignon, maionese de mostarda, parmesão em lascas, míni rúcula, alcaparra frita e molho de alcaparra.",
+                     "sku":"68",
+                     "baseValue":null
+                  }
+               ]
+            },
+            {
+               "name":"Adrian",
+               "spotlight":false,
+               "products":[
+                  {
+                     "price":690,
+                     "minProductValue":null,
+                     "id":"719b37bb-84c4-4807-b481-07da023dd803",
+                     "isActive":true,
+                     "isMountable":true,
+                     "imageUrl":"https://zak-static-dev.zakpay.io/images/8f1/8f1e11682e7f08f4be8f058d2af6e6dc5a17d18b435afa4d6f271954422585ed.png",
+                     "name":"Carpaccio rústico de carne",
+                     "description":"Carpaccio de filé-mignon, maionese de mostarda, parmesão em lascas, míni rúcula, alcaparra frita e molho de alcaparra.",
+                     "sku":"68",
+                     "baseValue":null
+                  }
+               ]
+            },
+            {
+               "name":"Directives",
+               "spotlight":false,
+               "products":[
+                  {
+                     "price":0,
+                     "minProductValue":null,
+                     "id":"9c0de06d-a581-4196-b25d-282df11e8a03",
+                     "isActive":true,
+                     "isMountable":true,
+                     "imageUrl":null,
+                     "name":"wqqwe",
+                     "description":"",
+                     "sku":"1608054672395",
+                     "baseValue":null
+                  }
+               ]
+            },
+            {
+               "name":"Accountability",
+               "spotlight":false,
+               "products":[
+                  {
+                     "price":800,
+                     "minProductValue":null,
+                     "id":"372d1fc1-cb4a-4736-b593-5b44d9b45387",
+                     "isActive":true,
+                     "isMountable":true,
+                     "imageUrl":null,
+                     "name":"McFritas Pequena",
+                     "description":"",
+                     "sku":"1608054672400",
+                     "baseValue":null
+                  },
+                  {
+                     "price":1800,
+                     "minProductValue":null,
+                     "id":"89541d63-93a2-417a-9b2b-47ca4c756148",
+                     "isActive":true,
+                     "isMountable":true,
+                     "imageUrl":null,
+                     "name":"Chicken McNuggets",
+                     "description":"4 Chicken McNuggets saborosos e crocantes de peito de frango.",
+                     "sku":"1608054672397",
+                     "baseValue":null
+                  },
+                  {
+                     "price":11111,
+                     "minProductValue":null,
+                     "id":"96afee26-bdc9-45be-86f8-31173e5939dc",
+                     "isActive":true,
+                     "isMountable":true,
+                     "imageUrl":null,
+                     "name":"asadsdas",
+                     "description":"",
+                     "sku":"1608054672394",
+                     "baseValue":null
+                  },
+                  {
+                     "price":12000,
+                     "minProductValue":null,
+                     "id":"70cbcdf3-72b4-44ff-b15e-cbe0250a71e8",
+                     "isActive":true,
+                     "isMountable":true,
+                     "imageUrl":null,
+                     "name":"sasda",
+                     "description":"",
+                     "sku":"1608054672393",
+                     "baseValue":null
+                  },
+                  {
+                     "price":0,
+                     "minProductValue":null,
+                     "id":"65b80879-99ec-4903-85ca-a76a18ececc4",
+                     "isActive":true,
+                     "isMountable":true,
+                     "imageUrl":null,
+                     "name":"McFritas Média",
+                     "description":"",
+                     "sku":"1608054672399",
+                     "baseValue":null
+                  },
+                  {
+                     "price":2200,
+                     "minProductValue":null,
+                     "id":"d9e08c53-3077-4e76-82e2-e2d357066bfb",
+                     "isActive":true,
+                     "isMountable":true,
+                     "imageUrl":null,
+                     "name":"Cheddar McMelt",
+                     "description":"",
+                     "sku":"1608054672405",
+                     "baseValue":null
+                  },
+                  {
+                     "price":1000,
+                     "minProductValue":null,
+                     "id":"593fb623-8cfa-4aeb-993f-cfa7d7e4e421",
+                     "isActive":true,
+                     "isMountable":true,
+                     "imageUrl":null,
+                     "name":"Del Valle Maracujá 700ml",
+                     "description":"",
+                     "sku":"1608054672404",
+                     "baseValue":null
+                  },
+                  {
+                     "price":2600,
+                     "minProductValue":null,
+                     "id":"f11f3dfb-5d2d-4fb5-a8be-40d896502e5e",
+                     "isActive":true,
+                     "isMountable":true,
+                     "imageUrl":null,
+                     "name":"Big Mac",
+                     "description":"Não existe nada igual. Dois hambúrgueres, alface, queijo e molho especial, cebola e picles num pão com gergelim.",
+                     "sku":"1608054672396",
+                     "baseValue":null
+                  },
+                  {
+                     "price":1000,
+                     "minProductValue":null,
+                     "id":"37ca6e89-4696-4c71-96a0-ae38f174e141",
+                     "isActive":true,
+                     "isMountable":true,
+                     "imageUrl":null,
+                     "name":"ASDF",
+                     "description":"",
+                     "sku":"1608054672389",
+                     "baseValue":null
+                  }
+               ]
             }
-          ]
-        },
-        {
-          "name": "Acompanhamentos com nome super super super grande grande gigante",
-          "spotlight": false,
-          "products": [
+         ]
+      }
+   },
+   "getOrganization":{
+      "duration":0.0029164240000000004,
+      "error":null,
+      "host":"api-client-7c7494d7db-dsbfw",
+      "result":{
+         "logoUrl":"https://zak-static-dev.zakpay.io/images/c87/c87ac2ae38becff88f805bd6e96cd667a0298b856cfb4e96443b4076bd711c2a.png",
+         "backgroundUrl":"https://zak-static-dev.zakpay.io/images/1b1/1b15f49bbdad11d68d2d528c87313e9cecaf7b78986819dce52dc1c51a026e9b.png",
+         "backgroundColor":null,
+         "primaryColor":"#00ffaa",
+         "secondaryColor":null,
+         "slogan":null
+      }
+   },
+   "getAddressPredictions":{
+      "duration":0.40757074600000004,
+      "error":null,
+      "host":"api-client-7c7494d7db-dsbfw",
+      "result":{
+         "predictions":[
             {
-              "price": 11000,
-              "minProductValue": null,
-              "id": "e4fbf3c4-b941-4a04-92c9-e75475a8ac30",
-              "isActive": true,
-              "isMountable": true,
-              "imageUrl": null,
-              "name": "da",
-              "description": "",
-              "sku": "1608054672391",
-              "baseValue": null
+               "description":"Rua Lourenço Marques - Vila Olímpia, São Paulo - SP, Brasil",
+               "placeId":"Ej5SdWEgTG91cmVuw6dvIE1hcnF1ZXMgLSBWaWxhIE9sw61tcGlhLCBTw6NvIFBhdWxvIC0gU1AsIEJyYXNpbCIuKiwKFAoSCUMDdDRJV86UEUwTFp_KQzWzEhQKEgk55aqLTlfOlBHERQ042woHUA"
             },
             {
-              "price": 4000,
-              "minProductValue": null,
-              "id": "49599fc9-ab33-4aa5-974b-76d596f95741",
-              "isActive": true,
-              "isMountable": true,
-              "imageUrl": "https://static.zakpay.io/images/d81/d81668e69ab31b18dbc4f5fd6695fc7c5ce488323e345ac7c54f6e5cab8c1791.png",
-              "name": "X-Burguer",
-              "description": "CheeseBurguer",
-              "sku": "95471",
-              "baseValue": null
+               "description":"Rua Lourenço Marquês - Guadalupe, Rio de Janeiro - RJ, Brasil",
+               "placeId":"Ej9SdWEgTG91cmVuw6dvIE1hcnF1w6pzIC0gR3VhZGFsdXBlLCBSaW8gZGUgSmFuZWlybyAtIFJKLCBCcmFzaWwiLiosChQKEgmPPJRYCWOZABEeL6lo4NBMdxIUChIJW9T6V5hjmQARyXNM7EOw41Y"
+            },
+            {
+               "description":"Rua Lourenço Marques, Ermesinde, Portugal",
+               "placeId":"EipSdWEgTG91cmVuw6dvIE1hcnF1ZXMsIEVybWVzaW5kZSwgUG9ydHVnYWwiLiosChQKEgkTqGcSRGEkDRGkWXeaK9tsfhIUChIJXVm4EUFhJA0R4AILVhmw3gw"
+            },
+            {
+               "description":"Rua Lourenço Marques, Prior Velho, Portugal",
+               "placeId":"EixSdWEgTG91cmVuw6dvIE1hcnF1ZXMsIFByaW9yIFZlbGhvLCBQb3J0dWdhbCIuKiwKFAoSCc8UMNAMMhkNEdh-hnaiRVW9EhQKEgnRQ2SeczIZDRGEKmP8p1Q5nQ"
+            },
+            {
+               "description":"Rua Lourenço Maracini - Conj Habt Jardim Bela Vista, Monte Alto - SP, Brasil",
+               "placeId":"Ek1SdWEgTG91cmVuw6dvIE1hcmFjaW5pIC0gQ29uaiBIYWJ0IEphcmRpbSBCZWxhIFZpc3RhLCBNb250ZSBBbHRvIC0gU1AsIEJyYXNpbCIuKiwKFAoSCX33wEo6RLmUESeWefE_F3r8EhQKEgkHhSmSOkS5lBHayIjtPHMLaw"
             }
-          ]
-        },
-        {
-          "name": "Delivery",
-          "spotlight": false,
-          "products": [
-            {
-              "price": 650,
-              "minProductValue": null,
-              "id": "87a37b76-99be-493c-ac53-0cdee2e620d8",
-              "isActive": true,
-              "isMountable": true,
-              "imageUrl": null,
-              "name": "Coca Cola Zero",
-              "description": "",
-              "sku": "22091",
-              "baseValue": null
-            },
-            {
-              "price": 4700,
-              "minProductValue": null,
-              "id": "9e9adfb5-0dd0-42c4-805f-3898b9625f88",
-              "isActive": true,
-              "isMountable": true,
-              "imageUrl": "https://zak-static-dev.zakpay.io/images/028/028038fc019cb713151b5a720cb167f7fa8d41e241797dbba6a60b2f6b30af24.png",
-              "name": "Poke 02 - Mar e Terra",
-              "description": "Arroz Branco, Atum(Cru), Barriga de Porco, Molho Cítrico, Avocado, Kimchi, Ovo, Pepino, Maionese, Wakame e Pururuca ",
-              "sku": "24021",
-              "baseValue": null
-            }
-          ]
-        },
-        {
-          "name": "Lanche",
-          "spotlight": false,
-          "products": [
-            {
-              "price": 1200,
-              "minProductValue": null,
-              "id": "6e6ac23b-3c99-47dc-8876-ff41e13ae0a4",
-              "isActive": true,
-              "isMountable": true,
-              "imageUrl": null,
-              "name": "Amanteigado Coração Rosa",
-              "description": "",
-              "sku": "19079",
-              "baseValue": null
-            }
-          ]
-        },
-        {
-          "name": "Categoria do Mariano 7",
-          "spotlight": true,
-          "products": [
-            {
-              "price": 1200,
-              "minProductValue": null,
-              "id": "dfb000c4-a81f-41ec-8f0c-ea29a477cddd",
-              "isActive": true,
-              "isMountable": true,
-              "imageUrl": null,
-              "name": "Fanta Laranja 700ml",
-              "description": "",
-              "sku": "1608054672401",
-              "baseValue": null
-            },
-            {
-              "price": 0,
-              "minProductValue": null,
-              "id": "1603b73c-56e9-44ae-9254-4462fc7cab11",
-              "isActive": true,
-              "isMountable": true,
-              "imageUrl": null,
-              "name": "Taxa de entrega",
-              "description": "",
-              "sku": "1608054672383",
-              "baseValue": null
-            }
-          ]
-        },
-        {
-          "name": "Categoria do Mariano 1",
-          "spotlight": true,
-          "products": [
-            {
-              "price": 690,
-              "minProductValue": null,
-              "id": "719b37bb-84c4-4807-b481-07da023dd803",
-              "isActive": true,
-              "isMountable": true,
-              "imageUrl": "https://zak-static-dev.zakpay.io/images/8f1/8f1e11682e7f08f4be8f058d2af6e6dc5a17d18b435afa4d6f271954422585ed.png",
-              "name": "Carpaccio rústico de carne",
-              "description": "Carpaccio de filé-mignon, maionese de mostarda, parmesão em lascas, míni rúcula, alcaparra frita e molho de alcaparra.",
-              "sku": "68",
-              "baseValue": null
-            }
-          ]
-        },
-        {
-          "name": "Categoria do Mariano 8",
-          "spotlight": true,
-          "products": [
-            {
-              "price": 5800,
-              "minProductValue": null,
-              "id": "97a59dea-f99b-4868-a89f-849261680d01",
-              "isActive": true,
-              "isMountable": true,
-              "imageUrl": null,
-              "name": "Monte seu Bowl Quente com Mel",
-              "description": "",
-              "sku": "0517745755",
-              "baseValue": null
-            },
-            {
-              "price": 1500,
-              "minProductValue": null,
-              "id": "874c0fc6-b3ce-4d15-a30b-f206a01697fd",
-              "isActive": true,
-              "isMountable": true,
-              "imageUrl": null,
-              "name": "McFritas Grande",
-              "description": "A batata frita mais famosa do mundo. Deliciosas batatas selecionadas, fritas, crocantes por fora, macias por dentro, douradas, irresistíveis, saborosas, famosas, e todos os outros adjetivos positivos que você quiser dar.",
-              "sku": "1608054672398",
-              "baseValue": null
-            },
-            {
-              "price": 1500,
-              "minProductValue": null,
-              "id": "897562c2-4832-4bf8-b005-9d85ede302c6",
-              "isActive": true,
-              "isMountable": true,
-              "imageUrl": null,
-              "name": "Coca-Cola Zero 700ml",
-              "description": "",
-              "sku": "1608054672403",
-              "baseValue": null
-            },
-            {
-              "price": 690,
-              "minProductValue": null,
-              "id": "719b37bb-84c4-4807-b481-07da023dd803",
-              "isActive": true,
-              "isMountable": true,
-              "imageUrl": "https://zak-static-dev.zakpay.io/images/8f1/8f1e11682e7f08f4be8f058d2af6e6dc5a17d18b435afa4d6f271954422585ed.png",
-              "name": "Carpaccio rústico de carne",
-              "description": "Carpaccio de filé-mignon, maionese de mostarda, parmesão em lascas, míni rúcula, alcaparra frita e molho de alcaparra.",
-              "sku": "68",
-              "baseValue": null
-            }
-          ]
-        },
-        {
-          "name": "Adrian",
-          "spotlight": false,
-          "products": [
-            {
-              "price": 690,
-              "minProductValue": null,
-              "id": "719b37bb-84c4-4807-b481-07da023dd803",
-              "isActive": true,
-              "isMountable": true,
-              "imageUrl": "https://zak-static-dev.zakpay.io/images/8f1/8f1e11682e7f08f4be8f058d2af6e6dc5a17d18b435afa4d6f271954422585ed.png",
-              "name": "Carpaccio rústico de carne",
-              "description": "Carpaccio de filé-mignon, maionese de mostarda, parmesão em lascas, míni rúcula, alcaparra frita e molho de alcaparra.",
-              "sku": "68",
-              "baseValue": null
-            }
-          ]
-        },
-        {
-          "name": "Directives",
-          "spotlight": false,
-          "products": [
-            {
-              "price": 0,
-              "minProductValue": null,
-              "id": "9c0de06d-a581-4196-b25d-282df11e8a03",
-              "isActive": true,
-              "isMountable": true,
-              "imageUrl": null,
-              "name": "wqqwe",
-              "description": "",
-              "sku": "1608054672395",
-              "baseValue": null
-            }
-          ]
-        },
-        {
-          "name": "Accountability",
-          "spotlight": false,
-          "products": [
-            {
-              "price": 800,
-              "minProductValue": null,
-              "id": "372d1fc1-cb4a-4736-b593-5b44d9b45387",
-              "isActive": true,
-              "isMountable": true,
-              "imageUrl": null,
-              "name": "McFritas Pequena",
-              "description": "",
-              "sku": "1608054672400",
-              "baseValue": null
-            },
-            {
-              "price": 1800,
-              "minProductValue": null,
-              "id": "89541d63-93a2-417a-9b2b-47ca4c756148",
-              "isActive": true,
-              "isMountable": true,
-              "imageUrl": null,
-              "name": "Chicken McNuggets",
-              "description": "4 Chicken McNuggets saborosos e crocantes de peito de frango.",
-              "sku": "1608054672397",
-              "baseValue": null
-            },
-            {
-              "price": 11111,
-              "minProductValue": null,
-              "id": "96afee26-bdc9-45be-86f8-31173e5939dc",
-              "isActive": true,
-              "isMountable": true,
-              "imageUrl": null,
-              "name": "asadsdas",
-              "description": "",
-              "sku": "1608054672394",
-              "baseValue": null
-            },
-            {
-              "price": 12000,
-              "minProductValue": null,
-              "id": "70cbcdf3-72b4-44ff-b15e-cbe0250a71e8",
-              "isActive": true,
-              "isMountable": true,
-              "imageUrl": null,
-              "name": "sasda",
-              "description": "",
-              "sku": "1608054672393",
-              "baseValue": null
-            },
-            {
-              "price": 0,
-              "minProductValue": null,
-              "id": "65b80879-99ec-4903-85ca-a76a18ececc4",
-              "isActive": true,
-              "isMountable": true,
-              "imageUrl": null,
-              "name": "McFritas Média",
-              "description": "",
-              "sku": "1608054672399",
-              "baseValue": null
-            },
-            {
-              "price": 2200,
-              "minProductValue": null,
-              "id": "d9e08c53-3077-4e76-82e2-e2d357066bfb",
-              "isActive": true,
-              "isMountable": true,
-              "imageUrl": null,
-              "name": "Cheddar McMelt",
-              "description": "",
-              "sku": "1608054672405",
-              "baseValue": null
-            },
-            {
-              "price": 1000,
-              "minProductValue": null,
-              "id": "593fb623-8cfa-4aeb-993f-cfa7d7e4e421",
-              "isActive": true,
-              "isMountable": true,
-              "imageUrl": null,
-              "name": "Del Valle Maracujá 700ml",
-              "description": "",
-              "sku": "1608054672404",
-              "baseValue": null
-            },
-            {
-              "price": 2600,
-              "minProductValue": null,
-              "id": "f11f3dfb-5d2d-4fb5-a8be-40d896502e5e",
-              "isActive": true,
-              "isMountable": true,
-              "imageUrl": null,
-              "name": "Big Mac",
-              "description": "Não existe nada igual. Dois hambúrgueres, alface, queijo e molho especial, cebola e picles num pão com gergelim.",
-              "sku": "1608054672396",
-              "baseValue": null
-            },
-            {
-              "price": 1000,
-              "minProductValue": null,
-              "id": "37ca6e89-4696-4c71-96a0-ae38f174e141",
-              "isActive": true,
-              "isMountable": true,
-              "imageUrl": null,
-              "name": "ASDF",
-              "description": "",
-              "sku": "1608054672389",
-              "baseValue": null
-            }
-          ]
-        }
-      ]
-    }
-  },
-  "getOrganization": {
-    "duration": 0.0029164240000000004,
-    "error": null,
-    "host": "api-client-7c7494d7db-dsbfw",
-    "result": {
-      "logoUrl": "https://zak-static-dev.zakpay.io/images/c87/c87ac2ae38becff88f805bd6e96cd667a0298b856cfb4e96443b4076bd711c2a.png",
-      "backgroundUrl": "https://zak-static-dev.zakpay.io/images/1b1/1b15f49bbdad11d68d2d528c87313e9cecaf7b78986819dce52dc1c51a026e9b.png",
-      "backgroundColor": null,
-      "primaryColor": "#00ffaa",
-      "secondaryColor": null,
-      "slogan": null
-    }
-  },
-  "getAddressPredictions": {
-    "duration": 0.40757074600000004,
-    "error": null,
-    "host": "api-client-7c7494d7db-dsbfw",
-    "result": {
-      "predictions": [
-        {
-          "description": "Rua Lourenço Marques - Vila Olímpia, São Paulo - SP, Brasil",
-          "placeId": "Ej5SdWEgTG91cmVuw6dvIE1hcnF1ZXMgLSBWaWxhIE9sw61tcGlhLCBTw6NvIFBhdWxvIC0gU1AsIEJyYXNpbCIuKiwKFAoSCUMDdDRJV86UEUwTFp_KQzWzEhQKEgk55aqLTlfOlBHERQ042woHUA"
-        },
-        {
-          "description": "Rua Lourenço Marquês - Guadalupe, Rio de Janeiro - RJ, Brasil",
-          "placeId": "Ej9SdWEgTG91cmVuw6dvIE1hcnF1w6pzIC0gR3VhZGFsdXBlLCBSaW8gZGUgSmFuZWlybyAtIFJKLCBCcmFzaWwiLiosChQKEgmPPJRYCWOZABEeL6lo4NBMdxIUChIJW9T6V5hjmQARyXNM7EOw41Y"
-        },
-        {
-          "description": "Rua Lourenço Marques, Ermesinde, Portugal",
-          "placeId": "EipSdWEgTG91cmVuw6dvIE1hcnF1ZXMsIEVybWVzaW5kZSwgUG9ydHVnYWwiLiosChQKEgkTqGcSRGEkDRGkWXeaK9tsfhIUChIJXVm4EUFhJA0R4AILVhmw3gw"
-        },
-        {
-          "description": "Rua Lourenço Marques, Prior Velho, Portugal",
-          "placeId": "EixSdWEgTG91cmVuw6dvIE1hcnF1ZXMsIFByaW9yIFZlbGhvLCBQb3J0dWdhbCIuKiwKFAoSCc8UMNAMMhkNEdh-hnaiRVW9EhQKEgnRQ2SeczIZDRGEKmP8p1Q5nQ"
-        },
-        {
-          "description": "Rua Lourenço Maracini - Conj Habt Jardim Bela Vista, Monte Alto - SP, Brasil",
-          "placeId": "Ek1SdWEgTG91cmVuw6dvIE1hcmFjaW5pIC0gQ29uaiBIYWJ0IEphcmRpbSBCZWxhIFZpc3RhLCBNb250ZSBBbHRvIC0gU1AsIEJyYXNpbCIuKiwKFAoSCX33wEo6RLmUESeWefE_F3r8EhQKEgkHhSmSOkS5lBHayIjtPHMLaw"
-        }
-      ],
-      "sessiontoken": "af16c56f-2c24-467f-9862-b11b1d51e348"
-    }
-  },
-  "getAddressDetails": {
-    "duration": 0.116717947,
-    "error": null,
-    "host": "api-client-7c7494d7db-dsbfw",
-    "result": {
-      "postalCode": "04547-100",
-      "streetName": "Rua Lourenço Marques",
-      "streetNumber": null,
-      "city": "São Paulo",
-      "neighborhood": "Vila Olímpia",
-      "state": "São Paulo",
-      "country": "Brasil"
-    }
-  }
+         ],
+         "sessiontoken":"af16c56f-2c24-467f-9862-b11b1d51e348"
+      }
+   },
+   "getAddressDetails":{
+      "duration":0.116717947,
+      "error":null,
+      "host":"api-client-7c7494d7db-dsbfw",
+      "result":{
+         "postalCode":"04547-100",
+         "streetName":"Rua Lourenço Marques",
+         "streetNumber":null,
+         "city":"São Paulo",
+         "neighborhood":"Vila Olímpia",
+         "state":"São Paulo",
+         "country":"Brasil"
+      }
+   }
 }
